@@ -1,3 +1,7 @@
+---
+layout: default
+title: Debra
+---
 # Landing Page - Heading
 
 ## About Me
@@ -12,3 +16,4 @@
  - item 2
  - item 3
 
+![Featured Image] (/assets/kittensonthestairs.jpg)
